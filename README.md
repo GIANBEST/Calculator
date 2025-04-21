@@ -13,7 +13,7 @@ Bem-vindo ao projeto **Calculadora**! Este é um aplicativo simples e funcional 
 
 ## 🚀 Tecnologias Utilizadas
 
-JAVA e Gradle.
+Kotlin e Gradle.
 
 ## 📂 Estrutura do Projeto
 
