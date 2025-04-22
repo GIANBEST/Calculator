@@ -60,7 +60,7 @@ Para rodar os testes automatizados, utilize o comando abaixo:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para mais informações.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
 ## 🤝 Contribuições
 
